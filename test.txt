@@ -2,3 +2,4 @@ Git is free software.Now I begin learn it!
 I like it.
 
 Creating a new branch dev is quick.
+Creating a new branch dev2 is also quick.
